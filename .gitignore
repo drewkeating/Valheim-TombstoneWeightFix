@@ -1,0 +1,8 @@
+bin/
+obj/
+dist/
+*.dll
+*.zip
+*.rsp
+install.log
+*.bak

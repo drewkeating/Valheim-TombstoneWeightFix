@@ -1,0 +1,10 @@
+{
+    "name": "TombstoneWeightFix",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/drewkeating/Valheim-TombstoneWeightFix",
+    "description": "Fixes ExtraSlots tombstone auto-loot for heavy loot (lightened rows, belt upgrades, Corpse Run) and adds a sorted pickup: gear, hotbar, then the heaviest items first, up to your carry weight.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2360",
+        "shudnal-ExtraSlots-1.2.24"
+    ]
+}
